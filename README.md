@@ -14,7 +14,7 @@ This project presents an in-depth exploratory and statistical analysis of a data
 - Python, pandas, matplotlib, seaborn, sklearn, scipy
 - Techniques: Linear Regression, Clustering, Hypothesis Testing, Data Visualization
 
-📂 [Final_Report.pdf](https://github.com/akone42/S-P-500/blob/main/Project.ipynb)  
-📓 [Final_Project.ipynb](link-if-hosted)
+📂 [Final_Report.pdf](https://github.com/akone42/S-P-500/blob/main/Project%20Report_%20Analysis%20of%20S%26P%20500%20Company%20Financials.pdf)  
+📓 [Final_Project.ipynb](https://github.com/akone42/S-P-500/blob/main/Project.ipynb)
 
 This project was completed as part of a data analysis course and reflects real-world financial investigation practices applied to stock market data.
